@@ -1,0 +1,14 @@
+void print();
+int findLine();
+void findWall();
+void goToNest();
+int detectDark();
+void moveArray();
+int checkArray();
+void foundNest();
+void changeNav();
+void keepCenter();
+void printArray();
+int stopInCenter();
+void finishedMaze();
+int whereIsLeftWall();

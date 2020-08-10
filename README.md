@@ -1,2 +1,2 @@
-# CS26020-RoboticsAndEmbddedSystem
-This is my main assignment where I needed to get a robot to solve a maze without any input form the user.
+# Maze-solving-robot
+This was a project to create a project in C that would make a robot be able to solve any mase with a size of 5x5x5 cells. 
